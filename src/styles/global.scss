@@ -20,6 +20,13 @@ body {
   background: var(--background);
 }
 
+.container {
+  max-width: 52.5rem;
+  width: 100%;
+
+  margin: 0 auto;
+}
+
 input, textarea {
   font-family: "Poppins";
 }
